@@ -1,14 +1,14 @@
-Hi, I'm [Your Name] 👋
+Hi, I'm Shivam Tiwari 👋
 
 🚀 About Me
 
-I'm a [Your Title/Profession] passionate about [your expertise, e.g., web development, backend engineering, DevOps, etc.]. I love building scalable applications, optimizing performance, and exploring new technologies.
+I'm a Softwere Developer passionate about Full-stack-development, devops and generative Ai. I love building scalable applications, optimizing performance, and exploring new technologies.
 
 🛠 Tech Stack & Skills
 
 Languages: JavaScript, PHP, Python, SQL
 
-Frameworks: Laravel, Node.js, React.js
+Frameworks: Laravel, CodeIgniter ,Node.js, React.js, Express.js, Next.js
 
 Databases: MySQL, MongoDB, PostgreSQL
 
@@ -18,7 +18,7 @@ Other Skills: REST API Development, Performance Optimization, Cloud Infrastructu
 
 💼 Work Experience
 
-[Job Title] - [Company Name] (MM/YYYY - Present)
+Softwere Developer - Nourishgenie (11/2023 - Present)
 
 Developed and optimized large-scale applications.
 
@@ -26,7 +26,7 @@ Integrated third-party APIs and improved system performance.
 
 Managed CI/CD pipelines for automated deployments.
 
-[Job Title] - [Previous Company Name] (MM/YYYY - MM/YYYY)
+Larevel Developer - Bitrix Infotech Pvt. ltd. (MM/YYYY - MM/YYYY)
 
 Implemented new features and fixed critical bugs.
 
@@ -36,7 +36,7 @@ Enhanced security protocols in applications.
 
 🎓 Education
 
-[Degree Name] - [University Name] (YYYY - YYYY)
+BCA (Bachelor of Computer Application) - Veer Narmed South Gujrat University (2020)
 
 📜 Certifications & Achievements
 
