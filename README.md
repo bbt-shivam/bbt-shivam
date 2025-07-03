@@ -6,9 +6,9 @@ I'm a Softwere Developer passionate about Full-stack-development, devops and gen
 
 🛠 Tech Stack & Skills
 
-Languages: JavaScript, PHP, Python, SQL
+Languages: JavaScript, PHP, Python, Node.js, SQL
 
-Frameworks: Laravel, CodeIgniter ,Node.js, React.js, Express.js, Next.js
+Frameworks: Laravel, CodeIgniter , React.js, Express.js, Next.js
 
 Databases: MySQL, MongoDB, PostgreSQL
 
