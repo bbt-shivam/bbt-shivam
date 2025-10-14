@@ -55,7 +55,8 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 - Backend engineer for **Laravel APIs & Blockchain Apps**  
 
 ### **Web Development Intern (CodeIgniter)** - Trueline Solutions _(Nov 2019 - Apr 2020)_
-
+- Learn Codeigniter 3
+- Created Urban Company & Justdial Inspired app for college project.
 ---
 
 ## 🎓 Education
