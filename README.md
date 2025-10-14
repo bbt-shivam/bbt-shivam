@@ -65,16 +65,9 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 
 ---
 
-## 📜 Certifications & Achievements
-- ![AWS](https://img.shields.io/badge/AWS%20Certified%20Developer-232F3E?style=flat&logo=amazon-aws&logoColor=white) **AWS Certified Developer**  
-- ![Laravel](https://img.shields.io/badge/Laravel-Advanced%20Certification-F9322C?style=flat&logo=laravel&logoColor=white) **Laravel Advanced Certification**  
-- Contributed to **Open Source Projects**  
-
----
-
 ## 📂 Featured Projects
 
-### **B2B Marketplace**
+### **B2B Marketplace** _On going_
 - IndiaMart clone for Australian B2B Marketplace  
 - Laravel 10 + Blade + Vite + MySQL  
 - Bootstrap (Admin) & Tailwind v3 (Frontend)  
@@ -93,7 +86,6 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 
 ## 📬 Contact & Socials
 
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 - 📧 Email: [your.email@example.com](mailto:bbtshivam@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/bbt-shivam](https://www.linkedin.com/in/bbt-shivam/)
 - 🐦 Twitter: [twitter.com/bbt_shivam](https://x.com/bbt_shivam)  
