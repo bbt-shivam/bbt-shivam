@@ -92,7 +92,7 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 
 ---
 
-### ⚡ Fun GIFs & Extras
+### ⚡⚡⚡⚡ 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) 
 
 ⭐ **Feel free to connect or check out my work!**
