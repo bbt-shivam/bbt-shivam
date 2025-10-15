@@ -67,7 +67,7 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 
 ## 📂 Featured Projects
 
-### **B2B Marketplace** _On going_
+### **B2B Marketplace** (_On going_)
 - IndiaMart clone for Australian B2B Marketplace  
 - Laravel 10 + Blade + Vite + MySQL  
 - Bootstrap (Admin) & Tailwind v3 (Frontend)  
