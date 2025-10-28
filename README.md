@@ -80,7 +80,7 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 - Integrated third-party APIs, Laravel schedulers  
 - Custom Jewelry & Diamond Builder  
 - Mail & SMS integrations  
-- Link : https://dev.diamondsutra.in
+- Link : https://diamondsutra.in
 
 ---
 
