@@ -86,7 +86,7 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 
 ## 📬 Contact & Socials
 
-- 📧 Email: [your.email@example.com](mailto:bbtshivam@gmail.com)  
+- 📧 Email: [bbtshivam@gmail.com](mailto:bbtshivam@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/bbt-shivam](https://www.linkedin.com/in/bbt-shivam/)
 - 🐦 Twitter: [twitter.com/bbt_shivam](https://x.com/bbt_shivam)  
 
