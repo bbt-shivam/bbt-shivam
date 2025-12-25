@@ -79,7 +79,7 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 - Repo Link : (https://github.com/bbt-shivam/marketplace)
 - Website Link : https://b2bmarket.softcrafttechnologies.com
 
-### **Donation Management System **
+### **Donation Management System**
 - Platform for manage donations on temple trust
 - Integrated third-party APIs, Laravel schedulers  
 - Multi Guard login and permissions 
