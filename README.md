@@ -34,7 +34,7 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 - REST API Development  
 - Performance Optimization  
 - Problem Solving  
-
+- Workflow Automation - n8n
 ---
 
 ## 💼 Work Experience
@@ -42,17 +42,19 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 ### **Software Developer** - Nourishgenie _(Nov 2023 - Present)_
 - Developed and optimized **large-scale applications**  
 - Integrated **third-party APIs** and improved system performance  
-- Managed **CI/CD pipelines** for automated deployments  
+- Managed **CI/CD pipelines** for automated deployments using Docker, Jenkins , Github, portainer, AWS
+- Microservices in NodeJS and FastAPI
+- Created Agentic Workflows in n8n
 
 ### **Backend Developer** - Bitrix Infotech Pvt. Ltd. _(May 2023 - Oct 2023)_
-- Created **Custom GPT Web App**  
-- Integrated **Twitter API** & **Meta Graph API**  
-- Built **Telegram and Discord bots**  
+- Created **Custom GPT Ai Agent IN Laravel + NodeJS + Redis + Langchain + Pinecone + OPENAI**  
+- Integrated **Twitter API** & **Meta Graph API** in Custom GPT Agent
+- Built **Telegram and Discord bots for Ai Agenet**  
 
 ### **Laravel Developer** - Bitrix Infotech Pvt. Ltd. _(Jun 2021 - Dec 2021)_
 - Worked on **Laravel & Blockchain projects**  
 - Developed **Ethereum Smart Contracts** for NFT Marketplace  
-- Backend engineer for **Laravel APIs & Blockchain Apps**  
+- Backend engineer for **Laravel APIs for E-commerce App & Blockchain Apps**  
 
 ### **Web Development Intern (CodeIgniter)** - Trueline Solutions _(Nov 2019 - Apr 2020)_
 - Learn Codeigniter 3
@@ -74,6 +76,12 @@ I'm a **Software Developer** passionate about **Full-Stack Development, DevOps, 
 - Google reCAPTCHA, Laravel Spatie (Role-based login), CKEditor 4  
 - Repo Link : (https://github.com/bbt-shivam/marketplace)
 - Website Link : https://b2bmarket.softcrafttechnologies.com
+
+### **Donation Management System **
+- Platform for manage donations on temple trust
+- Integrated third-party APIs, Laravel schedulers  
+- Multi Guard login and permissions 
+- Mail & SMS integrations
 
 ### **Diamondsutra (E-Commerce)**
 - Jewelry E-Commerce platform  
